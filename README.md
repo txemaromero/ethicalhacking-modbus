@@ -12,4 +12,4 @@ For this hacking demonstration, I built a proof of concept (PoC) as a digital pl
 
 The hardware part of the proof of concept comprises three parts, PLC-Raspberry Pi (PLC1-USB), PLC-Raspberry Pi (PLC2-GSM) and PLC-Arduino-BLE Shield (PLC3-BLE). Open source intrusion detection systems (IDS) are implemented on this with the Snort, Suricata and Bro software and on a Modbus fieldbus to connect the PLC-Raspberry Pi systems.
 
-![Demonstration image](demonstration-modbus.gif)
+![Demonstration image](demonstration-modbus.png)
